@@ -305,7 +305,9 @@ main {
 #about_me{
   text-align: center;
 }
-
+#info{
+  text-align: center;
+}
 /* media queiries */
 @media screen and (max-width: 651px) and (min-width: 499px) {
   .navigation {
