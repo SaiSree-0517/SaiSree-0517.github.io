@@ -302,10 +302,10 @@ input[type="submit"]:hover {
 main {
   margin: 70px 20px;
 }
-section{
+#about_me{
   text-align: center;
-  justify-content: center;
 }
+
 /* media queiries */
 @media screen and (max-width: 651px) and (min-width: 499px) {
   .navigation {
